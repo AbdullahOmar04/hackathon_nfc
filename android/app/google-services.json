@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48100836768",
+    "project_id": "hackathon-nfc-bc233",
+    "storage_bucket": "hackathon-nfc-bc233.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48100836768:android:3d7d1aa969f43f6234d0c5",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_nfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jS8pX3QrT2y0HqLS_QGv0yA0Y-m6Ypo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
